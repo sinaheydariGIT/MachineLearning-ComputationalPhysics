@@ -1,1 +1,1 @@
-# My Homework for the AME599 (Machine Learning and Computational Physics) class at USC.
+# My assignments for the AME599 (Machine Learning and Computational Physics) class at USC.

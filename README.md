@@ -1,1 +1,3 @@
-# My assignments for the AME599 (Machine Learning and Computational Physics) class at USC.
+# Physics-Informed Neural Networks (PINN)
+
+Solving ODEs using Physics-Informed Neural Networks and comparing to the exact solution. 
